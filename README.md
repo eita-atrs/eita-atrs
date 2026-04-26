@@ -13,20 +13,7 @@ Through internships at Athena Technologies, Inc. and Portus AI, Inc., I have gai
 In these roles, I have been involved in end-to-end development, from design to implementation and improvement, with a focus on building systems that can be reliably operated in production.
 I also emphasize learning new technologies by working backward from requirements, and I contribute to team development through clear communication and progress sharing.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/eita-atrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eita-atrs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eita-atarshi-64590b380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eita Atarashi" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-  <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-</p>
 
 
 
