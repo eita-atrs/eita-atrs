@@ -14,8 +14,6 @@ In these roles, I have been involved in end-to-end development, from design to i
 I also emphasize learning new technologies by working backward from requirements, and I contribute to team development through clear communication and progress sharing.
 
 
-
-
-
-
+### skills
+[![My Skills](https://skillicons.dev/icons?i=python,go,ts,aws,gcp,docker&theme=dark)](https://skillicons.dev)
 
